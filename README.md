@@ -1,11 +1,11 @@
----
-
 # Stream Recorder and Transcriber
 
 **Real-time audio stream recorder and speech-to-text transcriber** powered by [faster-whisper](https://github.com/SYSTRAN/faster-whisper).  
-This desktop application captures live audio streams (e.g., news radio, online broadcasts) via FFmpeg, transcribes speech in real time using a local Whisper model, and logs both audio and text output.
+This desktop application captures live audio streams (e.g., news radio, online broadcasts) via FFmpeg, 
+transcribes speech in real time using a local Whisper model, and logs both audio and text output.
 
-> **Note**: This is a self-contained PySide6 GUI application designed for Windows (with `ffmpeg.exe` support), but can be adapted to other platforms.
+> **Note**: This is a self-contained PySide6 GUI application designed for Windows (with `ffmpeg.exe` support),
+> but can be adapted to other platforms.
 
 ---
 
