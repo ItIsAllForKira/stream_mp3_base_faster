@@ -1,0 +1,14 @@
+numpy
+faster-whisper
+colorama
+PySide6
+pyinstaller
+pyaudio
+pydub
+
+
+#  python -m venv stream_mp3_base_faster
+#  Scripts\Activate     или    file\Scripts\Activate.ps1
+#  pip install -r requirements.txt
+#  pip uninstall pydub
+#  pip list | findstr pydub
