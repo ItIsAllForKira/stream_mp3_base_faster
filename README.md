@@ -1,4 +1,4 @@
-# Stream Recorder and Transcriber
+# Stream Recorder and Transcriber GUI
 
 **Real-time audio stream recorder and speech-to-text transcriber** powered by [faster-whisper](https://github.com/SYSTRAN/faster-whisper).  
 This desktop application captures live audio streams (e.g., news radio, online broadcasts) via FFmpeg, 
