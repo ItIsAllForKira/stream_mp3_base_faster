@@ -1,5 +1,5 @@
 # Stream Recorder and Transcriber GUI
-
+<img width="1022" height="509" alt="stream" src="https://github.com/user-attachments/assets/7521393a-9a40-425d-b776-1950d27378a9" />
 **Real-time audio stream recorder and speech-to-text transcriber** powered by [faster-whisper](https://github.com/SYSTRAN/faster-whisper).  
 This desktop application captures live audio streams (e.g., news radio, online broadcasts) via FFmpeg, 
 transcribes speech in real time using a local Whisper model, and logs both audio and text output.
@@ -21,7 +21,7 @@ transcribes speech in real time using a local Whisper model, and logs both audio
 - **Usage logging** with stream name, action type, and duration
 - **Model-on-demand loading**: Whisper `base` model (int8, CPU-only) loads only when needed
 - **Listen-only mode**: transcribe without saving audio
-<img width="1022" height="509" alt="stream" src="https://github.com/user-attachments/assets/7521393a-9a40-425d-b776-1950d27378a9" />
+
 
 ---
 
